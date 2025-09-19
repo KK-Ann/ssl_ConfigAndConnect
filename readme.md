@@ -32,17 +32,11 @@ vue+pywebview
 ## 安装部署
 
 
-### 必需组件
-下载npcap: https://npcap.com/#download
-
-### 运行方式
-1. 直接运行: 双击ids.exe
-2. 源码运行:   
-   - 安装依赖: 
 ```bash
 pip install \-r requirements.txt
 # 激活虚拟环境: 
 venv\\Scripts\\activate
+```
 
 3. 运行: 
 ```bash
