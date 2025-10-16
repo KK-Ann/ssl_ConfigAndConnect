@@ -1,4 +1,5 @@
 
+下载exe：https://github.com/KK-Ann/ssl_ConfigAndConnect/releases/tag/1.0.0
 ### 核心功能
 
 选择是作为ssl的服务端或者客户端
